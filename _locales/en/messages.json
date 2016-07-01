@@ -1,0 +1,5 @@
+{
+"_comment": "Put this in locales/en/",
+"name": {"message": "App Name"},
+"description": {"message": "App Description"}
+}
